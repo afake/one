@@ -1,5 +1,5 @@
 <div class="msgbox">
 	<?php
-		echo "hello world";
+		print("salam donya");
 	?>
 </div>
